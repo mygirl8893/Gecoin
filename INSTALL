@@ -1,0 +1,9 @@
+Building Gecoin
+
+See doc/readme-qt.rst for instructions on building Gecoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Gecoin.
+
+See doc/build-*.txt for instructions on building gecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Gecoin.
